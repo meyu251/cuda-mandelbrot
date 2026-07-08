@@ -1,0 +1,10 @@
+.vscode/
+
+# Build artifacts
+build/
+*.o
+*.obj
+*.exe
+*.exp
+*.lib
+*.pdb
